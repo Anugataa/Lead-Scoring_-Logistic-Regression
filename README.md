@@ -12,6 +12,7 @@ Our job here is to help them select the most promising leads, i.e. the leads tha
 
 **Our Goals in Layman's Language :**
 To build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
+
 **Data :**
 We have been provided with a leads dataset from the past which consists of various attributes such as Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. which may or may not be useful in ultimately deciding whether a lead will be converted or not.
 
